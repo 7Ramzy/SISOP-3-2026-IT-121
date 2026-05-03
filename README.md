@@ -386,24 +386,43 @@ select() adalah kunci utama: ia memantau puluhan koneksi sekaligus tanpa fork â€
 
 #### output
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1c0ff13b9b070283286ecc424b28efdaa6cfb3df/aset/Screenshot%202026-05-03%20183945.png)
+
 Server awal
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1c0ff13b9b070283286ecc424b28efdaa6cfb3df/aset/Screenshot%202026-05-03%20184035.png)
+
 User 1
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1c0ff13b9b070283286ecc424b28efdaa6cfb3df/aset/Screenshot%202026-05-03%20184113.png)
+
 User 1 exit
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1c0ff13b9b070283286ecc424b28efdaa6cfb3df/aset/Screenshot%202026-05-03%20184145.png)
+
 Nama kedua user sama
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1a5ec172421d27f1838674ab0de185cec7ed6510/aset/Screenshot%202026-05-03%20185528.png)
+
 user 2
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1a5ec172421d27f1838674ab0de185cec7ed6510/aset/Screenshot%202026-05-03%20184208.png)
+
 Server ketika user 1 masuk, keluar, dan user 2 masuk
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1a5ec172421d27f1838674ab0de185cec7ed6510/aset/Screenshot%202026-05-03%20184249.png)
+
 Message user 1
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1a5ec172421d27f1838674ab0de185cec7ed6510/aset/Screenshot%202026-05-03%20184300.png)
+
 Message user 2
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1a5ec172421d27f1838674ab0de185cec7ed6510/aset/Screenshot%202026-05-03%20184455.png)
+
 Admin dan commandnya
+
 ![](https://github.com/7Ramzy/SISOP-3-2026-IT-121/blob/1a5ec172421d27f1838674ab0de185cec7ed6510/aset/Screenshot%202026-05-03%20184510.png)
+
 Server setelah semua dijalankan
 
 #### kendala
